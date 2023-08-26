@@ -1,0 +1,22 @@
+/* styles.css */
+
+.oddnumbered,
+.oddnumberedbutbiggerfont {
+  background-color: rgb(231, 147, 161);
+  font-family: "Verdana", sans-serif;
+}
+
+.oddnumberedbutbiggerfont {
+  font-size: 24px;
+}
+
+#firstid {
+  color: rgb(84, 84, 246);
+  font-size: 36px;
+}
+
+#secondid {
+  background-color:rgb(125, 179, 125);
+  font-size: 24px;
+  font-weight: bold;
+}
